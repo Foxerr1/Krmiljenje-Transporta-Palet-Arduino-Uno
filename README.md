@@ -10,4 +10,4 @@ Uporabljeni material:
 1x rele, 
 1x motorček, 
 1x dioda, 
-16x žicče
+16x žiče
