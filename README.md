@@ -8,6 +8,6 @@ Uporabljeni material: \
 4x 220Ω rezistor, \
 1x zelena LED, \
 1x rele, \
-1x motorček,
+1x motorček,\
 1x dioda, \
 16x žiče
