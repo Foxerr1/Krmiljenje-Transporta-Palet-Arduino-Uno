@@ -57,7 +57,7 @@ Izhodi:
 
 
 
-https://raw.githubusercontent.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/main/video_delovanja.mp4
+https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/assets/102383035/f5e574b5-c13e-481b-b1e1-8dcc5d0c653b
 
 <br>
 <br>
