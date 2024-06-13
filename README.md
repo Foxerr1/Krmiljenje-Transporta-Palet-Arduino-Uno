@@ -30,8 +30,8 @@ Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
-| SB1 | Tipka | O, tipka | Tipka je mišljena kot prvi senzor B1, ta "senzor" se sproži ko pritisneš tipko |
-| SB2 | Tipka | O, tipka | Tipka je mišljena kot drugi senzor B2, ta "senzor" se sproži ko pritisneš tipko |
+| SB1 | Tipka | O, tipka | Tipka je mišljena kot prvi senzor B2, ta "senzor" se sproži ko pritisneš tipko |
+| SB2 | Tipka | O, tipka | Tipka je mišljena kot drugi senzor B3, ta "senzor" se sproži ko pritisneš tipko |
 | SB4 | Tipka | O, tipka | Tipka je mišljena kot tretji senzor B4, ta "senzor" se sproži ko pritisneš tipko |
 
 <br>
