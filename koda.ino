@@ -36,5 +36,8 @@ void loop()
     delay(1000);
     digitalWrite(led, HIGH);
   }
-  
+  if (digitalRead(B2) == HIGH && counter == 3) {
+    digitalWrite(led, LOW);
+    counter == 0;
+  }
 }
