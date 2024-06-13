@@ -49,3 +49,19 @@ Izhodi:
 <br>
 <br>
 
+![slika_vezja](https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/blob/main/slika_vezja.jpg?raw=true)
+![slika_vezja2](https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/blob/main/slika_vezja2.jpg?raw=true)
+![slika_vezja3](https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/blob/main/slika_vezja3.jpg?raw=true)
+![slika_sheme](https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/blob/main/shema_vezja.png?raw=true)
+![vezje_tinkercad](https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/blob/main/vezje_tinkercad.png?raw=true)
+
+
+
+https://github.com/Foxerr1/Krmiljenje-Transporta-Palet-Arduino-Uno/blob/28e1c36fc94a37b35394e387078f95e41935eeca/video_delovanja.mp4
+
+<br>
+<br>
+
+KOMENTAR:
+
+Delovanje vezja ni vedno delovalo zaradi neznanih razlogov, zato videja pravega arduino vezja ni. Spremeniti ni potrebno nič, saj je koda kratka in vezje lahko.
